@@ -1,12 +1,58 @@
-## Comms Strategy Summary
+# Communications agreement
 
-EAR’s external voice follows a polyvocal strategy in which personal, project, and program accounts can communicate about EAR’s work directly, in their own voice, without routing through a central editorial process or authority. The official EAR accounts roles are narrower: carrying organizational information and shared decisions, and amplifying work happening from within and elsewhere, rather than being a central external voice.
+Communication is central to how EAR engages in [research & innovation](research-imagination/index.md). We build shared understanding, invite participation, surface needs, coordinate action, and develop capacity in public so that the people involved can shape what is learned and what happens next.
 
-EAR’s external communication follows the same patterns as our internal decision-making: radiate intent, invite advice, act without permission and with trust and consent. Most communication, whether it’s a participant’s personal knowledge, experience, or work, doesn’t need a check-in before it’s shared. 
+## Make inquiry, activity, and knowledge understandable
 
-The Strategic Communications circle is the working group that stewards this approach. Day-to-day execution, including content calendar and publishing cadence, is facilitated by the Editorial service and anyone within EAR can participate in molding and aligning with emerging narratives through their own efforts.
+EAR communications should give people enough context to understand what is being investigated, developed, decided, offered, or requested.
 
-For more details on our communications strategy and how to participate, see the Communication guide and our [(draft) EAR Communications Strategy](https://docs.google.com/document/u/0/d/1YTKLfgNdV5OHZ1SEr4A9BWp8bfFVT85mQF9uGutbxuM/edit) document.
+This includes:
+- the condition or question being addressed: 
+- what an individual, Program, Service, or EAR as an organization is doing in response, formally or informally
+- who produced a communication and in what capacity in relation to EAR
+- what is known, proposed, disputed, or still developing about topics or actions
+- how it relates to other relevant activity inside EAR and across the overlapping ecosystems.
+
+This will enable people to assess what they are encountering, apply useful knowledge in their own contexts, follow how an inquiry develops, and understand how/where they can contribute their own valuable experiences and perspectives
+
+
+## Invite participation
+
+EAR communications should make clear what kind of attention, relationship, or response is being invited.
+
+Participation may mean 
+- reading, watching, or listening and propagating knowledge
+- asking a question or joining a public discussion
+- contributing experience or criticism to an inquiry
+- collaborating with a Program
+- requesting support from a Service
+- offering skills or resources; or taking on a defined role or responsibility within/around EAR.
+
+Invitation should fit the purpose and stage of the activity being communicated. Invitation doesn’t always lead people into EAR. It may strengthen their own work, contribute to a wider ecosystem conversation, or create the basis for future cooperation.
+
+## Build collective capacity
+
+EAR communications should strengthen the ability of people and groups to investigate shared conditions, develop knowledge, and act together.
+
+We do this by circulating learning, making needs and resource asks visible, connecting people working on related questions, supporting fundraising and resource development, and helping participants build skills across writing, visual communication, audio, video, and public conversation.
+
+Communication builds capacity both through what becomes public and through the relationships, collaboration, and shared infrastructure involved in producing and responding to it.
+
+## Ground EAR in Community
+
+EAR communications should be “Polyvocal” first, formally organizational second. As a learning collective, we each have a unique voice and perspective of various ecosystems and how EAR can contribute to their growth and development.
+
+Rather than just delivering knowledge through our research programs, we want to model cooperative action in public. This means we should build trustful and light editorial guidelines so EAR participants feel comfortable and enthusiastic to discuss EAR initiatives on their public social media and in coordination with each other and the formal EAR public channels.
+
+EAR’s content strategy is emergent and based on discussions happening in public just as much as activities within EAR.
+
+---
+
+EAR’s external voice follows a polyvocal strategy in which personal, project, and program accounts can communicate about EAR’s work directly, in their own voice, without routing through a central editorial process or authority. Official EAR account roles are narrower: carrying organizational information and shared decisions, and amplifying work happening from within and elsewhere, rather than being a central external voice.
+
+EAR’s external communication follows the same patterns as our internal [decision-making](decisions.md): radiate intent, invite advice, act without permission and with trust and consent. Most communication, whether it’s a participant’s personal knowledge, experience, or work, doesn’t need a check-in before it’s shared. 
+
+The [strategic communications](../guides/public-relations.md) working group meets every other week . Day-to-day execution, including content calendar and publishing cadence, is facilitated by the Editorial service and anyone within EAR can participate in molding and aligning with emerging narratives through their own efforts.
 
 ## Update types and cadence
 
@@ -24,7 +70,7 @@ Internal updates inform public comms:
 
 How the EAR social media profiles and feeds are staffed, accessed, and paced is TBD. The Strategic Communications circle is responsible for evolving the practices and policies around how official assets are used.
 
-## External updates
+### External updates
 
 We set a lag time for feedback in the cadence for internal comment before external publishing, which means that external comms have been vetted twice before going public (once while being written for EAR internal, second by EAR internal participants).
 
@@ -32,4 +78,4 @@ Beyond this, we can establish guidelines, process, etc for other kinds of public
 
 ## Communications advice
 
-For advice on handling communications, internal and external, see the [Communications guide]().
+For advice on handling communications, internal and external, see the [strategic communications guide](../guides/public-relations.md).
