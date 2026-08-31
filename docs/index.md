@@ -32,9 +32,9 @@ Ratification process: Outline \> Draft \> Circulate to steering for review \> Ma
 
 -->
 
-Ecosystem Action Research (EAR) provides participation pathways for individuals and organizations to investigate shared conditions, imagine desirable futures, and identify themes for strategic development in order to bring about a public interest internet. Our 2026 strategic objectives in the [EAR charter](agreements/charter.md) center the AT Protocol.
+Ecosystem Action Research (EAR) provides participation pathways for individuals and organizations to investigate shared conditions, imagine desirable futures, and identify themes for strategic development in order to bring about a public interest internet. Our 2026 strategic objectives in the [EAR charter](agreements/charter.md) center innovation within the AT Protocol ecosystem.
 
-The EAR project is made possible by collective [members](agreements/membership.md) with the leadership and accountability of our [project committee](agreements/project-committee.md), strategic foresight and collective decision-making from the [steering group](agreements/steering.md), and [member services](guides/internal-services/index.md) provided by [operations](agreements/operations.md).  EAR is a project of the [Raft Foundation](https://raft.foundation).
+The EAR project is made possible by collective [members](agreements/membership.md) with the leadership and accountability of our [project committee](agreements/project-committee.md), strategic foresight and collective decision-making facilitatd by the [steering group](agreements/steering.md), and [member services](guides/internal-services/index.md) provided by [operations](agreements/operations.md).  EAR is a project of the [Raft Foundation](https://raft.foundation).
 
 - [Charter](agreements/charter.md)
 - [Operating model](agreements/operating-model.md)
