@@ -13,6 +13,7 @@
 - [Project committee](agreements/project-committee.md)
 - [Personal conduct](agreements/personal-conduct.md)
 - [Research & imagination](agreements/research-imagination/index.md)
+- [Operating Model](agreements/operating-model.md)
 - [Operations](agreements/operations.md)
 - [Steering](agreements/steering.md)
 - [Financials](agreements/financial.md)
