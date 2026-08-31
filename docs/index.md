@@ -38,6 +38,8 @@ The EAR project is made possible by collective [members](agreements/membership.m
 
 - [Charter](agreements/charter.md)
 - [Operating model](agreements/operating-model.md)
+- [Work with EAR](work-with-ear.md)
+- [Support EAR](support-ear.md)
 
 ## Intended audience
 
