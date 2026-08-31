@@ -50,7 +50,7 @@ EAR’s content strategy is emergent and based on discussions happening in publi
 
 EAR’s external voice follows a polyvocal strategy in which personal, project, and program accounts can communicate about EAR’s work directly, in their own voice, without routing through a central editorial process or authority. Official EAR account roles are narrower: carrying organizational information and shared decisions, and amplifying work happening from within and elsewhere, rather than being a central external voice.
 
-EAR’s external communication follows the same patterns as our internal [decision-making](decisions.md): radiate intent, invite advice, act without permission and with trust and consent. Most communication, whether it’s a participant’s personal knowledge, experience, or work, doesn’t need a check-in before it’s shared. 
+EAR’s external communication follows the same patterns as our internal [decision-making](decisions/index.md): radiate intent, invite advice, act without permission and with trust and consent. Most communication, whether it’s a participant’s personal knowledge, experience, or work, doesn’t need a check-in before it’s shared. 
 
 The [strategic communications](../guides/public-relations.md) working group meets every other week . Day-to-day execution, including content calendar and publishing cadence, is facilitated by the Editorial service and anyone within EAR can participate in molding and aligning with emerging narratives through their own efforts.
 
