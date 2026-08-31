@@ -26,3 +26,7 @@ Qualities we look for
 Things we weigh carefully:
 
 * Per-user software costs
+
+## Internal coordination software
+
+The software we use internally is documented in the [internal software guide](../guides/internal-coordination.md).
