@@ -25,7 +25,7 @@
 - [EAR guides](guides/index.md)
 - [How we show up](guides/how-we-show-up.md)
 - [Internal coordination](guides/internal-coordination.md)
-- [Public relations](guides/public-relations.md)
+- [Strategic communications](guides/public-relations.md)
 - [Conflict resolution](guides/conflict-resolution.md)
 - [Schedule a meeting or event](guides/schedule.md)
 - [Opportunities](guides/opportunities.md)
