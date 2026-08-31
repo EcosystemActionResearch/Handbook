@@ -1,9 +1,11 @@
-# Contribute to the EAR Member handbook
+# Contribute to the EAR member handbook
 
 This handbook is like a wiki, maintained by EAR members. We invite members to help shape the handbook by suggesting changes and contributing new content. Join the \#EAR Handbook channel in Zulip and we can support you in contributing.
 
 ## Style and tone	
 Use active voice, avoid passive voice. Write in clear, plain language, and avoid jargon. Use positive statements rather than negative statements. Break long paragraphs into two or three short, concise sentences.
+
+Use sentence case for page titles and headings.
 
 ## Github
 
