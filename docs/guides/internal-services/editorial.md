@@ -1,6 +1,8 @@
 # Communications & editorial member service guide
 
-Publication thresholds & channels, supports internal content releases and external content publishing.
+Publication thresholds & channels, supports internal content releases and external content publishing.\
+
+[#Ops_editorial](https://ecosystemaction.zulipchat.com/#narrow/channel/606971-Ops-Editorial-Service) in Zulip
 
 <!--
 
