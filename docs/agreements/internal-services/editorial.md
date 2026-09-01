@@ -98,4 +98,4 @@ Material for external release (separate process)
 
 ---
 
-Editorial is subject to the [operations agreement](../../agreements/operations.md).
+Editorial is subject to the [operations agreement](index.md).

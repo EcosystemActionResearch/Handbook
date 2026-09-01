@@ -8,4 +8,4 @@ Care delivers participation pathways, mangaes the participant lifecycle, and pro
 
 ---
 
-Care is subject to the [operations agreement](../../agreements/operations.md).
+Care is subject to the [operations agreement](index.md).

@@ -25,7 +25,16 @@ nav:
       - Research principles: agreements/research-imagination/research-principles.md
       - Data synthesis principles: agreements/research-imagination/data-synthesis-principles.md
     - Operating model: agreements/operating-model.md
-    - Operations: agreements/operations.md
+    - Operations:
+      - What are operations?: agreements/internal-services/index.md
+      - Care: agreements/internal-services/care.md
+      - Commons: agreements/internal-services/commons.md
+      - Convening: agreements/internal-services/convening.md
+      - Craft: agreements/internal-services/craft.md
+      - Editorial: agreements/internal-services/editorial.md
+      - Discovery: agreements/internal-services/discovery.md
+      - Financial development: agreements/internal-services/development.md
+      - Software systems: agreements/internal-services/software-systems.md
     - Steering: agreements/steering.md
     - Financial development: agreements/financial.md
     - Meetings & events: agreements/meetings-events.md
@@ -42,16 +51,6 @@ nav:
     - Research projects: guides/research-projects.md
     - Action research methods: guides/action-research-methods.md
     - Request financial support: guides/request-financial-support.md
-    - Member services:
-      - What are member services: guides/internal-services/index.md
-      - Care: guides/internal-services/care.md
-      - Commons: guides/internal-services/commons.md
-      - Convening: guides/internal-services/convening.md
-      - Craft: guides/internal-services/craft.md
-      - Editorial: guides/internal-services/editorial.md
-      - Discovery: guides/internal-services/discovery.md
-      - Financial development: guides/internal-services/development.md
-      - Software systems: guides/internal-services/software-systems.md
     - Contribute to the handbook:
       - How to contribute: guides/contribute/index.md
       - MKDocs: guides/contribute/mkdocs.md

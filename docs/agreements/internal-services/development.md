@@ -6,4 +6,4 @@ Financial development assists with writing grants, raising funds, budgeting, and
 
 ---
 
-Financial development is subject to the [operations agreement](../../agreements/operations.md).
+Financial development is subject to the [operations agreement](index.md).

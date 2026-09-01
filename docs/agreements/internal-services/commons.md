@@ -6,4 +6,4 @@ Maintains knowledge management resources such as the handbook and internal wiki,
 
 ---
 
-Commons is subject to the [operations agreement](../../agreements/operations.md).
+Commons is subject to the [operations agreement](index.md).

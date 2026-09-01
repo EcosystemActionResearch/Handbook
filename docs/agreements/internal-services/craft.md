@@ -6,4 +6,4 @@ Craft develops resources and facilitates conversations around research and innov
 
 ---
 
-Craft is subject to the [operations agreement](../../agreements/operations.md).
+Craft is subject to the [operations agreement](index.md).

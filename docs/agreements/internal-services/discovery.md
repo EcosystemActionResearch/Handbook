@@ -6,4 +6,4 @@ Discovery helps triage and vet challenges and opportunities and assists with the
 
 ---
 
-Exploration is subject to the [operations agreement](../../agreements/operations.md).
+Exploration is subject to the [operations agreement](index.md).
