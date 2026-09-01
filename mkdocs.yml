@@ -25,8 +25,8 @@ nav:
       - Research principles: agreements/research-imagination/research-principles.md
       - Data synthesis principles: agreements/research-imagination/data-synthesis-principles.md
     - Operating model: agreements/operating-model.md
-    - Operations:
-      - What are operations?: agreements/internal-services/index.md
+    - Member services:
+      - EAR member services: agreements/internal-services/index.md
       - Care: agreements/internal-services/care.md
       - Commons: agreements/internal-services/commons.md
       - Convening: agreements/internal-services/convening.md
