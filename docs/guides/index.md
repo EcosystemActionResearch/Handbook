@@ -5,7 +5,7 @@ Guides explain how we do things. Any EAR member can propose changes to guides. C
 - [How we show up](how-we-show-up.md)
 - [Internal coordination](internal-coordination.md)
 - [Schedule a meeting or event](schedule.md)
-- [Public relations](public-relations.md)
+- [External communications](public-relations.md)
 - [Conflict resolution](conflict-resolution.md)
 - [Opportunities](opportunities.md)
 - [Research projects](research-projects.md)
