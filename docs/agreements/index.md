@@ -6,7 +6,7 @@ EAR agreements are formal policy documents that members are expected to abide by
 - [Decisions](decisions/index.md)
 - [Project committee](project-committee.md)
 - [Personal conduct](personal-conduct.md)
-- [Research & imagination](research-imagination/index.md)
+- [Research & innovation](research-imagination/index.md)
 	- [EAR R&I](research-imagination/index.md)
 	- [Research principles](research-imagination/research-principles.md)
 	- [Data synthesis principles](research-imagination/data-synthesis-principles.md)

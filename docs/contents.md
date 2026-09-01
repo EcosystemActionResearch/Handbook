@@ -12,7 +12,7 @@
 - [Decisions](agreements/decisions/index.md)
 - [Project committee](agreements/project-committee.md)
 - [Personal conduct](agreements/personal-conduct.md)
-- [Research & imagination](agreements/research-imagination/index.md)
+- [Research & innovation](agreements/research-imagination/index.md)
 - [Operating Model](agreements/operating-model.md)
 - [Operations](agreements/internal-services/index.md)
 - [Steering](agreements/steering.md)

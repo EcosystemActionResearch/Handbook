@@ -58,7 +58,7 @@ This means that we conduct research with a diverse range of audiences, participa
 
 ## What to expect
 
-We respond to all relevant inquiries. If your inquiry matches up with our charter, an EAR member will schedule a time to meet and discuss your needs. In the meantime, we suggest you read our personal conduct and research & imagination agreements.
+We respond to all relevant inquiries. If your inquiry matches up with our charter, an EAR member will schedule a time to meet and discuss your needs. In the meantime, we suggest you read our personal conduct and Research & innovation agreements.
 
 During our discovery call we’ll ask you a series of questions about your goals, the challenges you’re facing, and how you might like to engage with EAR. After the call, we’ll share a follow up communication with a summary of our discussion and next steps, if appropriate. 
 

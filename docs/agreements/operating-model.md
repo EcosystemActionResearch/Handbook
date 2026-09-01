@@ -6,7 +6,7 @@ The EAR operating model is made up of five core functions.
 - [Steering](steering.md)
 - [Operations and member services](internal-services/index.md)
 - [Communications](communications.md)
-- [Research & imagination](research-imagination/index.md)
+- [Research & innovation](research-imagination/index.md)
 
 ## Policy-driven governance
 - [Project committee ](project-committee.md)
@@ -31,4 +31,4 @@ Member services are made possible by intentional partnership between EAR functio
 - [Membership](membership.md)
 
 ## Research and imagination
-- [Research & imagination](research-imagination/index.md)
+- [Research & innovation](research-imagination/index.md)
