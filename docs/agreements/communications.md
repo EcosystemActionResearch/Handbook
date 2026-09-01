@@ -1,12 +1,13 @@
 # Communications agreement
 
-Communication is central to how EAR engages in [research & innovation](research-imagination/index.md). We build shared understanding, invite participation, surface needs, coordinate action, and develop capacity in public so that the people involved can shape what is learned and what happens next.
+Communication is central to how EAR engages in [research & innovation](research-imagination/index.md) and builds trust internally and externally. We develop shared understanding, invite participation, surface needs, coordinate action, and develop capacity in public so that the people involved can shape what is learned and what happens next.
 
 ## Make inquiry, activity, and knowledge understandable
 
 EAR communications should give people enough context to understand what is being investigated, developed, decided, offered, or requested.
 
 This includes:
+
 - the condition or question being addressed: 
 - what an individual, Program, Service, or EAR as an organization is doing in response, formally or informally
 - who produced a communication and in what capacity in relation to EAR
