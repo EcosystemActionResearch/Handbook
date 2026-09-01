@@ -17,4 +17,4 @@ Guides explain how we do things. Any EAR member can propose changes to guides. C
 
 In-development guides:
 
-- Onbaording
+- Onboarding
