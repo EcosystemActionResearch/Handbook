@@ -1,52 +1,10 @@
-# Operations
+# Member services agreement
 
-<!--
+Member services at EAR exist to provide a hospitable environment to EAR members, and to help people working on EAR programs get things done.
 
-## Agreement
+Services work with the [steering](../steering.md) group to execute policy ratified by the project committee , supporting members in the facilitation of [programs](../research-imagination/index.md), and by extension the EAR community.
 
----
-
-# Content guidance
-
-Remove section after authoring.
-
-## Status
-
-[Lyre Calliope](mailto:lyre.calliope@gmail.com) can you please tag in [andy.schwab@gmail.com](mailto:andy.schwab@gmail.com) here when you’d like him to review?
-
-| Readiness | What’s needed | Driver | Purpose |
-| :---- | :---- | :---- | :---- |
-| Not Started | Content outline Draft content | [Lyre Calliope](mailto:lyre.calliope@gmail.com) |  |
-
-## Content stub
-
-| Criteria | Guidance |
-| :---- | :---- |
-| Audiences | **EAR members** (primary), **external stakeholders** who want to learn about operations services (secondary) |
-| Primary message | Operations working groups support EAR members in the facilitation and execution of programs by providing a supportive environment, essential tools, and clear pathways for engagement and support. |
-| Audience-specific messages | **EAR members:** Find tools, support channels, and guidance to launch programs, manage resources, and contribute to EAR operations.  **External stakeholders:** Learn about our operational infrastructure, discover how we support our programs, and understand the standards and services that enable our community's work. |
-| Purpose of page | Describe how to get involved in or seek support from operations services at EAR. Provide clear onboarding pathways. Link out to related topics. |
-| Style and tone | Use active voice, avoid passive voice. Write in clear, plain language, and avoid jargon. Use positive statements rather than negative statements. Break long paragraphs into two or three short, concise sentences. |
-
-## Content outline
-
-Remove this section after writing content. 
-
-| Section | Topics |
-| :---- | :---- |
-| Introduction | Overview of the operations function and why it exists. |
-| Ops services | List of working groups within the ops function and services provided |
-| Get involved | Participation pathways to contribute to or support ops services. |
-
----
-
--->
-
-Operations services at EAR exist to provide a hospitable environment to EAR members, and to help people working on EAR programs get things done.
-
-Services work with the [steering](https://app.notion.com/p/Steering-36b338bbdb638039a87fe6936f2cb165?pvs=21) group to execute policy ratified by the project committee , supporting members in the facilitation of [programs](https://app.notion.com/p/Programs-36e338bbdb63800094a7e175fa682309?pvs=21), and by extension the EAR community.
-
-## Ops service teams
+## Member services teams
 
 Every Service maintains:
 
