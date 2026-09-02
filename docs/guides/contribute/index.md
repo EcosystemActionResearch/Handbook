@@ -17,7 +17,9 @@ If you have a Github account, you can draft updated versions of the handbook and
 
 ### How to propose changes and request review in Github
 
-Anyone can open issues and suggest changes to the handbook. All changes must be pushed to a branch other than the primary "main" branch. To suggest a group of related changes, create a new branch for the changes you'd like to propose, commit the changes, and create a pull request. At least two other people in the EAR github team must review each pull request before it can be merged to main.
+Anyone can open issues and suggest changes to the handbook. All changes must be pushed to a branch other than the primary "main" branch. To suggest a group of related changes, create a new branch for the changes you'd like to propose, commit the changes, and create a pull request. Remember to publish your branch (if necessary) and push all suggested changes before opening a pull request. 
+
+At least two other people in the EAR github team must review each pull request before it can be merged to main.
 
 ## Technical support
 
