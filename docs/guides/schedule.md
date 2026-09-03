@@ -49,4 +49,4 @@ Meetings and events drive our work at EAR. Anyone can schedule an internal meeti
 For help scheduling a meeting or event, you may consult the [convening service]().
 
 
-Relevent agreement: [Meetings & events]()
+Relevent agreement: [Meetings & events](../agreements/meetings-events.md)

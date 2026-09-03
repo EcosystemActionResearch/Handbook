@@ -174,14 +174,8 @@ From the charter:
 3. Equip **product, trust & safety, user experience, and engineering teams** building on AT network technology with shared understanding and language around common concepts, patterns, user needs, and tasks relevant to the ecosystem.  
 4. Provide **resources, research artifacts, and reference materials** to enable a diverse range of organizations and individuals to participate in the emergent ecosystem enabled by AT network technology.
 
-## How to begin
-
-\[Todo: Link to opportunities, research projects, and action research methods guides–e.g. Check out existing research projects, explore an opportunity, learn about methods we use.\]
-
 ## Related
-* Action research methods (link to guide section)
-* Research principles (link to guide section)  
-* Data, observations, and insights (link to guide section)  
-* TO ADD: Presuppositions, assumptions, findings, insights, hypotheses, and recommendations
-* Yearly objectives (link to charter)
-* How to begin (link to guide section)
+* [Action research methods](../../guides/action-research-methods.md)
+* [Research principles](research-principles.md)  
+* [Data, observations, and insights](data-synthesis-principles.md)
+* [Charter](../charter.md)

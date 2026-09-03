@@ -4,7 +4,7 @@ EAR members may request assistance obtaining financial support from the Developm
 
 **Note:** Fulfillment of financial support requests are contingent on the availability of funds secured through the EAR Open Collective account.
 
-Ready to submit a request for assistance obtaining financial support? Submit a financial support request (link to form).
+Ready to submit a request for assistance obtaining financial support? Submit a financial support request by [email](mailto:ecosystemaction@proton.me).
 
 ## Labor
 
@@ -16,24 +16,8 @@ Facilitation and subject-matter expert labor budgeted for planned and scoped res
 
 Labor spent supporting or leading operations and steering services is eligible to seek financial support for time-boxed quarterly commitments.
 
-### Project committee
-
-\[TBD: Project committee labor.\]
-
-### Other
-
-\[TBD: Other labor categories.\]
-
 ## Software and tools
 
-In general, software and tools are subject to the [software systems]() agreement. Software used at EAR must be approved for use. As a rule paid software systems—including with a free trial—must be approved ahead of time in order to be eligible for financial support.
+In general, software and tools are subject to the [software systems](../agreements/software-systems.md) agreement. Software used at EAR must be approved for use. As a rule paid software systems—including with a free trial—must be approved ahead of time in order to be eligible for financial support.
 
 If your paid software request is endorsed by the systems service team, if must then be submitted to the project committee for review and budgeting approval. 
-
-## Travel or accommodations
-
-\[TBD: Pre-approved travel or accommodations.\]
-
-## Discretionary expenses
-
-\[TBD: Pre-approved discretionary expenses.\]

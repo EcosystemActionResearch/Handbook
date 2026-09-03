@@ -37,4 +37,4 @@ A collaborative funding process must have a facilitator who is responsible for t
 
 ## Financial accountability and transparency
 
-Financial matters are the responsibility of the project committee. The committee ensures that all transactions are documented in the EAR Open Collective with corresponding proposal, budget, and forecast documentation.
+Financial matters are the responsibility of the project committee. The committee ensures that all transactions are documented in the [EAR Open Collective](https://opencollective.com/ecosystemaction).

@@ -13,7 +13,7 @@ Daily chatting, quick questions, interesting links. There’s a \#Water Cooler c
 There are also a bunch of topical channels. Feel free to ask in \#Water Cooler if you’re looking for anything in particular, and join any channel you please.
 
 ### Nextcloud for cloud services
-cloud.ecosystemaction.com
+[cloud.ecosystemaction.com](https://cloud.ecosystemaction.com) for file sharing and internal wiki.
 
 ## Software systems help
 Please reach out to the systems team for help via [Email](mailto:ecosystemaction@proton.me) or Zulip.
