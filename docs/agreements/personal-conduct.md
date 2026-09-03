@@ -62,6 +62,6 @@ Your participation must be:
 
 ## Reporting guidelines
 
-If you experience or witness behavior that violates this code of conduct, reach out to: Christian Jacobs or Taurean Bryant in Zulip or by email.
+If you experience or witness behavior that violates this code of conduct, reach out to: Christian Jacobs or Taurean Bryant in Zulip or by [email](mailto:ecosystemaction@proton.me).
 
 Reports will be received with care and confidentiality. 
