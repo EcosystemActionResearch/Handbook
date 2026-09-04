@@ -37,6 +37,8 @@ Remove this section after writing content.
 
 -->
 
+Work with EAR as a organizational partner, stakeholder, research participant, advisor, or volunteer.
+
 ## Share an inquiry, challenge, or opportunity
 
 We welcome research and event inquiries by [email](mailto:ecosystemaction@proton.me). We will review each inquiry and respond usually within 2-4 weeks. Note: Inquiries are subject to availability, sponsorship, and alignment with EAR’s charter. 
@@ -71,4 +73,4 @@ From the [EAR charter](agreements/charter.md):
 
 ## Support our work
 
-See [Support EAR](support-ear.md) to find out how to contribute to EAR, financially or as a volunteer.
+See [Support EAR](support-ear.md) to find out how to contribute to EAR, financially, or [Membership](agreements/membership.md) to see if volunteering may be right for you..
