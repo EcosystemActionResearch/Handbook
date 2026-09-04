@@ -4,7 +4,6 @@
 - [Table of contents](contents.md)
 - [Work with EAR](work-with-ear.md)
 - [Support EAR](support-ear.md)
-- [Glossary](glossary.md)
 
 ## Agreements
 - [EAR agreements](agreements/index.md)
@@ -33,3 +32,6 @@
 - [Action research methods](guides/action-research-methods.md)
 - [Request financial support](guides/request-financial-support.md)
 - [Contribute to the handbook](guides/contribute/index.md)
+
+## Glossary
+- [Glossary](glossary.md)

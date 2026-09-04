@@ -85,7 +85,7 @@ The past, present, and future of communication online is shaped by the same ince
 
 ### 4\. Legibility and legitimacy building
 
-People gather where their communities gather. For internet technology to be in the public interest, it must be approachable, accessible, and understandable by everyday people around the globe. We prioritize work and resource allocation to serve the development and maturity of the institutions, products, services, and communities working to implement decentralized technology with broad appeal, beyond privileged audiences. 
+People gather where their communities gather. For internet technology to be in the public interest, it must be approachable, accessible, and understandable by everyday people around the globe. We prioritize work and resource allocation to serve the development and maturity of the institutions, products, services, and communities working to implement decentralized technology with broad appeal, beyond privileged or niche audiences. 
 
 Past platform shifts built momentum by developing trustful relationships with users, standards organizations, and markets. New markets take time to grow sustainably, and there’s much to learn from prior paradigm shifts, established industry expertise, and movements. With this in mind, we prioritize choices that invite participation from experts alongside participant observers, community members, and organizational leaders to build collective market legitimacy.
 
@@ -95,11 +95,11 @@ Our information ecosystem is influenced by and contributes to different types of
 
 Similarly, we accept that the future of the internet will be multi-protocol, multicultural, and dependent on open access rather than beholden to walled gardens controlled by closed platforms. Rather than picking one technology to rule them all, or the success of a single community at the expense of others, we believe it is preferable to partner across contexts to see where we can identify shared values and goals to work toward.
 
-### 6\. Justice and equity over urgency or supremacy
+### 6\. Justice and equity 
 
 Decision-making that centers justice and equity stands in the face of performative urgency, supremacy, and domination politics. We believe it’s ok for things to take longer than expected. If public interest innovation is to empower oppressed and marginalized communities on the fringes, it ought to include them in the process. 
 
-This commitment requires paying careful attention to relationships, even when there are ever-present incentives to move fast. We want to create space to move deliberately and with intention so that others may participate in—and benefit from—the sense-making we engage in together. Finally, we are not beholden to a single corporation or organization. Rather, we include stakeholders who are affected by—not just responsible for funding—our work.
+This commitment requires paying careful attention to relationships, even when there are ever-present incentives to move fast. We want to create space to move deliberately and with intention so that others may participate in—and benefit from—the sense-making we engage in together. Finally, we are not beholden to a single corporation or organization. Rather, we include stakeholders who are affected by—not just responsible for funding—our work
 
 ---
 
@@ -111,7 +111,7 @@ EAR provides participation pathways for individuals and organizations to investi
 
 **1 year objectives** that ladder up to the 5 year mission and vision. We will revisit and update objectives each year.
 
-Our year one objectives center the Authenticated Transfer (AT) Protocol technology ecosystem. We are open to working with groups working with other technologies in the future. Interested in working with or supporting us? Let us know\! (link to form) 
+Our year one objectives center learning and innnovation related to the Authenticated Transfer (AT) Protocol technology ecosystem. This also means exploring and working with adjacent and related spaces such as other decentralized social networking services and  mainstream social media platforms. Interested in working with or supporting us? Let us know by [email](mailto:ecosystemaction@proton.me).
 
 1. Facilitate collective sense-making around key AT network ecosystem dynamics including what users value in common user experience scenarios and how the ecosystem is perceived.  
 2. Elevate the capacity of AT network community support systems by developing visibility and shared understanding of the experience of builders, creators, community organizers, founders, trust & safety staff, subject-matter experts, and end-users in the ecosystem.  

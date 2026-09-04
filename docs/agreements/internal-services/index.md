@@ -14,18 +14,18 @@ Every Service maintains:
 
 | Service | Purpose | Related handbook materials |
 | :---- | :---- | :---- | 
-| [Care](care.md) | Care delivers participation pathways, mangaes the participant lifecycle, and provides onboarding and offboarding services for internal members. | Personal conduct agreement, membership agreement, decisions agreement, how we show up guide, conflict resolution guide, work with EAR  |
-| [Craft](craft.md) | Craft develops resources and facilitates conversations around research and innovation standards and expectations.  | Research & innovation agreement, action research methods guide |
-| [Convening](convening.md) | Convening provides facilitation services to EAR programs and functions. | Meetings & events agreement, schedule a meeting or event guide | 
-| [Editorial](editorial.md) | Publication thresholds & channels, supports internal content releases and external content publishing. | Communications agreement, editorial guide, communication guide | 
-| [Discovery](discovery.md) | Exploration helps triage and vet challenges and opportunities and assists with the preparation and launch of action research projects and programming at EAR. | Programs and opportunities (or How to begin) guide, opportunities guide |
-| [Financial development](development.md) | Financial development assists with writing grants, raising funds, budgeting, and administrating spending. | Financials agreement, request financial support guide | 
-| [Software systems](software-systems.md) | Software systems maintains and manages shared software services at EAR.  | Software systems agreement | 
-| [Commons](commons.md) | Maintains knowledge management resources such as the handbook and internal wiki, playbooks, engagement flows, etc, and keeps them discoverable and useful | EAR handbook navigation and overall structure, Contribute to the handbook guide | 
+| [Care](care.md) | Care delivers participation pathways, mangaes the participant lifecycle, and provides onboarding and offboarding services for internal members. | [Personal conduct agreement](../personal-conduct.md), [membership agreement](../membership.md), [decisions agreement](../decisions/index.md), [how we show up guide](../../guides/how-we-show-up.md), [conflict resolution guide](../../guides/conflict-resolution.md), [work with EAR](../../work-with-ear.md) |
+| [Craft](craft.md) | Craft develops resources and facilitates conversations around research and innovation standards and expectations.  | [Research & innovation agreement](../research-imagination/index.md), [action research methods guide](../../guides/action-research-methods.md) |
+| [Convening](convening.md) | Convening provides facilitation services to EAR programs and functions. | [Meetings & events agreement](../meetings-events.md), [schedule a meeting or event guide](../../guides/schedule.md) | 
+| [Editorial](editorial.md) | Publication thresholds & channels, supports internal content releases and external content publishing. | [Communications agreement](../communications.md), [strategic communication guide](../../guides/public-relations.md) | 
+| [Discovery](discovery.md) | Discovery helps triage and vet challenges and opportunities and assists with the preparation and launch of action research projects and programming at EAR. | How to begin guide (TK), [opportunities guide](../../guides/opportunities.md) |
+| [Financial development](development.md) | Financial development assists with writing grants, raising funds, budgeting, and administrating spending. | [Financials agreement](../financial.md), [request financial support guide](../../guides/request-financial-support.md) | 
+| [Software systems](software-systems.md) | Software systems maintains and manages shared software services at EAR.  | [Software systems agreement](../software-systems.md) | 
+| [Commons](commons.md) | Maintains knowledge management resources such as the handbook and internal wiki, playbooks, engagement flows, etc, and keeps them discoverable and useful | EAR handbook navigation and overall structure, [Contribute to the handbook guide](../../guides/contribute/index.md) | 
 
 ## Get involved
 
-To participate in Operations, join the next monthly Operations Sync in Luma.
+To participate in Operations, join the next monthly Operations Sync in Luma or find the #operations channel in Zulip.
 
 ---
 

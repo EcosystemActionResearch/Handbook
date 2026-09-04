@@ -32,14 +32,18 @@ Ratification process: Outline \> Draft \> Circulate to steering for review \> Ma
 
 -->
 
-Ecosystem Action Research (EAR) provides participation pathways for individuals and organizations to investigate shared conditions, imagine desirable futures, and identify themes for strategic development in order to bring about a public interest internet. Our 2026 strategic objectives in the [EAR charter](agreements/charter.md) center innovation within the AT Protocol ecosystem.
+Ecosystem Action Research (EAR) provides participation pathways for individuals and organizations to explore shared conditions, imagine desirable futures, and identify themes for strategic development in order to help bring about a public interest internet. Our [2026 objectives](agreements/charter.md#2026-objectives) in the EAR charter center innovation related to the AT Protocol technology ecosystem.
 
 The EAR project is made possible by collective [members](agreements/membership.md) with the leadership and accountability of our [project committee](agreements/project-committee.md), strategic foresight and collective decision-making facilitatd by the [steering group](agreements/steering.md), and [member services](agreements/internal-services/index.md) groups.  EAR is a project of the [Raft Foundation](https://raft.foundation).
 
-- [Charter](agreements/charter.md)
-- [Operating model](agreements/operating-model.md)
-- [Work with EAR](work-with-ear.md)
-- [Support EAR](support-ear.md)
+## Start here
+A list of current research projects will be available on our [website](https://ecosystemaction.com) when we launch our first program. 
+
+- [Charter](agreements/charter.md): Why EAR exists
+- [Research and innovation](agreements/research-imagination/index.md): How we develop research and innovation programming
+- [Operating model](agreements/operating-model.md): The shape of the EAR project
+- [Work with EAR](work-with-ear.md): Work with EAR as a organizational partner, stakeholder, research participant, advisor, or volunteer
+- [Support EAR](support-ear.md): Support EAR with long or short-term funding
 
 ## Intended audience
 
@@ -53,13 +57,13 @@ All are welcome to suggest changes or raise a concern about handbook content by 
 
 See also: [Contribute to the handbook](guides/contribute/index.md)
 
-## License 
-
-The EAR handbook is provided under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
-
 ## Contact
 
-[Email](mailto:ecosystemaction@proton.me)
+The best way to reach the EAR team is by [email](mailto:ecosystemaction@proton.me). 
+
+## Handbook license 
+
+The EAR handbook is provided under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ---
 

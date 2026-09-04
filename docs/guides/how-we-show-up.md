@@ -1,17 +1,13 @@
 # How we show up
 
-EAR members are asked to foster a collaborative, resilient environment by aligning with core values of trust, transparency, and presence.
+EAR members are asked to foster a collaborative, resilient environment by aligning with our core values. The EAR project’s values statements are listed in our [charter](../agreements/charter.md).
 
-
-## EAR project values
-
-The EAR project’s values statements are listed in our [charter](../agreements/charter.md).
 
 ## Inspired by…
 
-EAR is a project of the [Raft foundation](https://raft.foundation). As the EAR collective emerged, we’ve been in conversation together around the Raft Foundation’s [values and secondary principles](https://raft.foundation/#values). If you’re an EAR member, please review the Raft values as they also reflect how we’d like to work together within the EAR project. 
+EAR is a project of the [Raft foundation](https://raft.foundation). As the EAR collective emerges, we’ve been in conversation together around the Raft Foundation’s [values and secondary principles](https://raft.foundation/#values). If you’re an EAR member, please review the Raft values as they also reflect how we’d like to work together within the EAR project. 
 
-We are also inspired by adrienne maree brown’s principles of [Emergent Strategy](https://adriennemareebrown.net/book/emergent-strategy/):
+We are further inspired by adrienne maree brown’s principles of [Emergent Strategy](https://adriennemareebrown.net/book/emergent-strategy/):
 
 1. Small is good, small is all. (The large is a reflection of the small.)  
 2. Change is constant. (Be like water.)  

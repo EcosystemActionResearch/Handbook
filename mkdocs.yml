@@ -9,7 +9,6 @@ nav:
   - Table of contents: contents.md
   - Work with EAR: work-with-ear.md
   - Support EAR: support-ear.md
-  - Glossary: glossary.md
   - Agreements:
     - EAR agreements: agreements/index.md
     - Charter: agreements/charter.md
@@ -54,3 +53,4 @@ nav:
     - Contribute to the handbook:
       - How to contribute: guides/contribute/index.md
       - MKDocs: guides/contribute/mkdocs.md
+  - Glossary: glossary.md
