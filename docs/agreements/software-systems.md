@@ -2,7 +2,7 @@
 
 EAR members rely on software systems to share information and collaborate online. The software we choose to use day-to-day can impact our ability to collaborate effectively, who is enabled to participate, our operating budget, and switching costs.
 
-Members can request software systems support in [Zulip]() or via [email]().
+Members can request software systems support in [Zulip](https://ecosystemaction.zulipchat.com/#narrow/channel/583631-Ops-Systems-Service-.28EAR-Tools-and-software.29) or via [email](mailto:ecosystemaction@proton.me).
 
 ## Selecting software systems
 
