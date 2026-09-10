@@ -60,4 +60,8 @@ Steering maintains focus on outside and future awareness, and near-term strategy
 
 ## Participate in steering
 
-All EAR members with interest in shaping near-term strategy are invited and encouraged to contribute to steering conversations and decisions. To participate in Steering, join the next bi-weekly [Steering Meeting Sync in Luma](https://luma.com/ecosystemaction).
+All EAR members with interest in shaping near-term strategy are invited and encouraged to contribute to steering conversations and decisions. 
+
+To participate in Steering, join the next bi-weekly [Steering Meeting Sync in Luma](https://luma.com/ecosystemaction). You'll be invited to future steering syncs. 
+
+To remove yourself from the invite list, decline the event in the invite email from Luma, and you'll be removed from the future email list (or contact the meeting host by posting in Zulip).
