@@ -1,4 +1,4 @@
-# Financial development member service guide
+# Financial development working group agreement
 
 Financial development assists with writing grants, raising funds, budgeting, and administrating spending.
 

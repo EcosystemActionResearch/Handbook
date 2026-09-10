@@ -1,4 +1,4 @@
-# Discovery member service guide
+# Discovery working group agreement
 
 Discovery helps triage and vet challenges and opportunities and assists with the preparation and launch of action research projects and programming at EAR.
 

@@ -11,9 +11,16 @@ EAR agreements are formal policy documents that members are expected to abide by
 	- [Research principles](research-imagination/research-principles.md)
 	- [Data synthesis principles](research-imagination/data-synthesis-principles.md)
 - [Operating model](operating-model.md)
-- [Operations](internal-services/index.md)
+- [Member services](internal-services/index.md)
+	- Care
+	- Commons
+	- Convening
+	- Craft
+	- Financial development
+	- Discovery
+	- Editorial
+	- Software systems
 - [Steering](steering.md)
 - [Financials](financial.md)
 - [Meetings & events](meetings-events.md)
 - [Communications](communications.md)
-- [Software systems](software-systems.md)

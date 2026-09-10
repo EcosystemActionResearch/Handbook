@@ -1,4 +1,4 @@
-# Care member service guide
+# Care working group agreement
 
 Care delivers participation pathways, mangaes the participant lifecycle, and provides onboarding and offboarding services for internal members.
 

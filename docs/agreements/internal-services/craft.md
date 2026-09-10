@@ -1,4 +1,4 @@
-# Craft and methods member service guide
+# Craft and methods working group agreement
 
 Craft develops resources and facilitates conversations around research and innovation standards and expectations. 
 

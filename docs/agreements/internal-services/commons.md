@@ -1,4 +1,4 @@
-# Commons member service guide
+# Commons working group agreement
 
 Maintains knowledge management resources such as the handbook and internal wiki, playbooks, engagement flows, etc, and keeps them discoverable and useful
 

@@ -13,11 +13,10 @@
 - [Personal conduct](agreements/personal-conduct.md)
 - [Research & innovation](agreements/research-imagination/index.md)
 - [Operating Model](agreements/operating-model.md)
-- [Operations](agreements/internal-services/index.md)
+- [Member services](agreements/internal-services/index.md)
 - [Steering](agreements/steering.md)
 - [Financials](agreements/financial.md)
 - [Meetings & events](agreements/meetings-events.md)
-- [Software systems](agreements/software-systems.md)
 - [Communications](agreements/communications.md)
 
 ## Guides
@@ -29,7 +28,7 @@
 - [Schedule a meeting or event](guides/schedule.md)
 - [Opportunities](guides/opportunities.md)
 - [Research projects](guides/research-projects.md)
-- [Action research methods](guides/action-research-methods.md)
+- [Research methods](guides/research-methods/index.md)
 - [Request financial support](guides/request-financial-support.md)
 - [Contribute to the handbook](guides/contribute/index.md)
 
