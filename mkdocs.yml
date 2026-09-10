@@ -13,7 +13,7 @@ nav:
     - EAR agreements: agreements/index.md
     - Charter: agreements/charter.md
     - Decisions:
-      - EAR decisions: agreements/decisions/index.md
+      - Decisions at EAR: agreements/decisions/index.md
       - Types of decisions: agreements/decisions/decision-types.md
       - Decision-making templates: agreements/decisions/decision-templates.md
     - Project committee: agreements/project-committee.md
@@ -38,7 +38,6 @@ nav:
     - Financial development: agreements/financial.md
     - Meetings & events: agreements/meetings-events.md
     - Communications: agreements/communications.md
-    - Software systems: agreements/software-systems.md
   - Guides:
     - EAR guides: guides/index.md
     - How we show up: guides/how-we-show-up.md
@@ -48,7 +47,9 @@ nav:
     - Conflict resolution: guides/conflict-resolution.md
     - Opportunities: guides/opportunities.md
     - Research projects: guides/research-projects.md
-    - Action research methods: guides/action-research-methods.md
+    - Research methods: 
+      - EAR research methods: guides/research-methods/index.md
+      - How to begin: guides/research-methods/how-to-begin.md
     - Request financial support: guides/request-financial-support.md
     - Contribute to the handbook:
       - How to contribute: guides/contribute/index.md

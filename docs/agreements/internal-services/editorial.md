@@ -1,4 +1,4 @@
-# Communications & editorial member service guide
+# Communications & editorial working group agreement
 
 Publication thresholds & channels, supports internal content releases and external content publishing.\
 

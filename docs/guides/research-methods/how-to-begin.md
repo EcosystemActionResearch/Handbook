@@ -1,4 +1,4 @@
-# Action research methods
+# How to begin
 
 <!--
 
@@ -53,19 +53,9 @@ Remove this section after writing content.
 
 -->
 
-Methods may be used in different types research projects such as Exploratory, Foundational, Generative, Communicative, Evaluative, Applicative (Adapted from [The Field Study Handbook](https://docs.google.com/document/d/1zzjA1upVI4qQd7Cc6ccRsw0N6q5bbgsS5wzW4-fbEJ8/edit?tab=t.0#heading=h.rmajv0gfqzta))
+Programs start with exploration. The best place to start is to schedule a conversation to fill in the items listed in the explore an opportunity section. If you’ve already started the process, bring a 1-2 page opportunity summary, project proposal, research plan, or doc of your choice to the \#Steering group to seek advice. If you’d like help putting together a document, don’t be afraid to ask\!
 
-> Editor's note: 
-
-> Where might foresight / imagination fit in? *Exploratory and/or Generative (or regenerative)*?
-
-> Where might design research methods fit in? Exploratory, Foundational, Evaluative?
-
-> \[Methods categorized by project type\]
-
-> Todo: Dedupe w/research projects page. 
-
-## How to begin
+Each research project starts with group inquiry. The input of group inquiry can simply be a question or a statement, and a scheduled session with an agenda to begin together. The output of a group inquiry session is a discussion summary (or similar) including criteria (link to resource e.g. discovery map agenda) such as a list of challenges, perceived opportunities, and research questions.
 
 * Seek advice (post in Zulip in \#\[designated channel\] or to a message board)  
 * Start an opportunity inquiry (schedule a discussion, sync or async, with agenda) (link to opportunities?)  
@@ -75,13 +65,11 @@ Methods may be used in different types research projects such as Exploratory, Fo
 * Data, observations, and insights (invite participation, observe principles)  
 * Create a report (involve editorial)
 
-Each research project starts with group inquiry. The input of group inquiry can simply be a question or a statement, and a scheduled session with an agenda to begin together. The output of a group inquiry session is a discussion summary (or similar) including criteria (link to resource e.g. discovery map agenda) such as a list of challenges, perceived opportunities, and research questions.
-
 Each research question can then be explored using separate, focused research tracks. As research projects are executed and findings and insights are surfaced, these insights may be fed into research reports related to an opportunity theme or topic.
 
-Findings and insights can then be tracked as they relate to different ecosystem dynamics.
+## Ecosystem dynamics
 
-Related ecosystem dynamics (todo: document ecosystem dynamics we’re tracking – move these to separate guide)
+Findings and insights can then be tracked as they relate to different ecosystem dynamics.
 
 - Experience quality  
 - Legibility and brand perception  
@@ -91,21 +79,7 @@ Related ecosystem dynamics (todo: document ecosystem dynamics we’re tracking �
 - Community involvement   
 - Contributor / builder experience
 
-## Research principles
 
-\[Link\] 
-
-## Data, observations, and insights
-
-Research involves data—research notes, screenshots, photos, video, audio, analytics, etc.—and only some of it is reflected in a deliverable. Active data stewardship is necessary to protect the reputation of EAR and the privacy of those we serve.
-
-Participant consent, safety, and trust always come first when it comes to data gathering, storage, and use.
-
-* Participants first  
-* Research group second   
-* Project sponsor or client organizations third
-
-Before collecting data or recording findings from research participants, a data consent form must be provided and agreed to.
 
 ## Request financial support 
 
@@ -116,3 +90,9 @@ See the request financial support guide.
 ## Publish findings
 
 \[Notes on how to publish finding with editorial support\]
+
+## Related links
+- Research projects guide
+- Research and innovation agreement
+- Research principles agreement
+- Data synthesis principles agreement

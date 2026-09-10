@@ -9,7 +9,7 @@ Guides explain how we do things. Any EAR member can propose changes to guides. C
 - [Conflict resolution](conflict-resolution.md)
 - [Opportunities](opportunities.md)
 - [Research projects](research-projects.md)
-- [Action research methods](action-research-methods.md)
+- [Research methods](research-methods/index.md)
 - [Request financial support](request-financial-support.md)
 - [Contribute to the handbook](contribute/index.md)
 	- [How to contribute](contribute/index.md)

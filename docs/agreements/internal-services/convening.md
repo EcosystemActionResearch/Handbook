@@ -1,4 +1,4 @@
-# Convening member service guide
+# Convening working group agreement
 
 Convening provides facilitation services to EAR programs and functions.
 
