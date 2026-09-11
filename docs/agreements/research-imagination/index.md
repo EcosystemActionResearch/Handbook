@@ -1,4 +1,4 @@
-# Research & imagination agreement
+# Research & innovation agreement
 
 <!--
 
@@ -29,7 +29,7 @@ Remove this section after writing content.
 - [ ] Introduce research and imagination programming as a way to investigate shared conditions, reflect on the past, and explore desirable futures.  
 - [ ] Share sources of inspiration (e.g. Imagination: A Manifesto, Emergent Strategy),   
 - [ ] context on the current landscape (in public interest internet tech), and …   
-- [ ] near-term objectives that focus the EAR research & imagination function.
+- [ ] near-term objectives that focus the EAR Research & innovation function.
 
       **Outline reorientation:**
 
@@ -46,7 +46,7 @@ Remove this section after writing content.
       
 
 * ~~Agreements~~  
-  * ~~Research & Imagination~~  
+  * ~~Research & innovation~~  
     * ~~Introduction~~  
       * ~~Action research~~  
       * ~~Imagination~~  
@@ -70,7 +70,7 @@ Remove this section after writing content.
 
 
 * Agreements  
-  * Research & imagination  
+  * Research & innovation  
     * Methods teaser  
       * E.g. Exploratory, Foundational, Generative, Communicative, Evaluative, Applicative (Adapted from [The Field Study Handbook](https://docs.google.com/document/d/1zzjA1upVI4qQd7Cc6ccRsw0N6q5bbgsS5wzW4-fbEJ8/edit?tab=t.0#heading=h.rmajv0gfqzta))  
         * Where might foresight / imagination fit in? *Exploratory and/or Generative (or regenerative)*?  
@@ -107,8 +107,8 @@ Remove this section after writing content.
 | :---- | :---- |
 | Audiences | **EAR members** (primary), **external stakeholders** who want to learn about R\&I programming (secondary) |
 | Primary message | Research and imagination programs facilitate collaborative and participatory inquiry into current state conditions and desirable futures. EAR operations, steering, and project committee functions exist to make R\&I programming possible. EAR members guide, facilitate, and participate in programs. You do not need to be an EAR member to participate in EAR R\&I programming. Participants and members alike abide by EAR agreements, including the personal conduct policy. |
-| Audience-specific messages | **EAR members:** Explain what research & imagination programming is, methods, principles, current objectives, how to get involved **External stakeholders:** External link to e.g. work with EAR. |
-| Purpose of page | Describe how to get involved in research & imagination programming at EAR. Provide clear onboarding pathways. Link out to related topics. |
+| Audience-specific messages | **EAR members:** Explain what Research & innovation programming is, methods, principles, current objectives, how to get involved **External stakeholders:** External link to e.g. work with EAR. |
+| Purpose of page | Describe how to get involved in Research & innovation programming at EAR. Provide clear onboarding pathways. Link out to related topics. |
 | Style and tone | Use active voice, avoid passive voice. Write in clear, plain language, and avoid jargon. Use positive statements rather than negative statements. Break long paragraphs into two or three short, concise sentences. |
 
 ## Expanded content outline
@@ -165,7 +165,7 @@ See the data synthesis principles agreement.
 
 ## EAR objectives 2026
 
-Research & imagination programs at EAR ladder up to the [one year objectives](../charter.md#2026-objectives) outlined in our founding charter, reviewed quarterly by the steering group, and ratified yearly by the project committee. To focus our work, programs proposed outside of or beyond the bounds of our one year objectives will not be considered by the steering group.
+Research & innovation programs at EAR ladder up to the [one year objectives](../charter.md#2026-objectives) outlined in our founding charter, reviewed quarterly by the steering group, and ratified yearly by the project committee. To focus our work, programs proposed outside of or beyond the bounds of our one year objectives will not be considered by the steering group.
 
 From the charter: 
 
@@ -174,14 +174,8 @@ From the charter:
 3. Equip **product, trust & safety, user experience, and engineering teams** building on AT network technology with shared understanding and language around common concepts, patterns, user needs, and tasks relevant to the ecosystem.  
 4. Provide **resources, research artifacts, and reference materials** to enable a diverse range of organizations and individuals to participate in the emergent ecosystem enabled by AT network technology.
 
-## How to begin
-
-\[Todo: Link to opportunities, research projects, and action research methods guides–e.g. Check out existing research projects, explore an opportunity, learn about methods we use.\]
-
 ## Related
-* Action research methods (link to guide section)
-* Research principles (link to guide section)  
-* Data, observations, and insights (link to guide section)  
-* TO ADD: Presuppositions, assumptions, findings, insights, hypotheses, and recommendations
-* Yearly objectives (link to charter)
-* How to begin (link to guide section)
+* [Action research methods](../../guides/action-research-methods.md)
+* [Research principles](research-principles.md)  
+* [Data, observations, and insights](data-synthesis-principles.md)
+* [Charter](../charter.md)

@@ -6,9 +6,7 @@ EAR members are expected to agree to the EAR charter, abide by the EAR code of c
 
 ## Leaving EAR
 
-It’s equally important to feel comfortable stepping away if that’s what’s best for you. If you have made commitments to one or more working groups, please notify your group or  \[email address\] if you intend to step away. We welcome members participating as they are able, even if it’s for a limited amount of time.
-
-Change membership status form (link to form)
+It’s equally important to feel comfortable stepping away if that’s what’s best for you. If you have made commitments to one or more working groups, please notify the EAR project committee by [email](mailto:ecosystemaction@proton.me) if you intend to step away. We welcome members participating as they are able, even if it’s for a limited amount of time.
 
 ## Joining EAR
 

@@ -77,7 +77,7 @@ Technology built in the public interest expands the options on the menu for ever
 
 Our [code of conduct](https://docs.google.com/document/u/0/d/1VkAEV_M3SimkGskUl70i_X6GQfXRZ8IGBeTowCWS3dk/edit) sets the expectation that we actively repair harm. It’s to this end we ask EAR members to: show up in good relationship; actively share power; center people, not just perspectives; treat lived experience as expertise; take responsibility when we cause harm; pace ourselves and protect others’ ability to do the same; and protect participant privacy.
 
-### 3\. Intercommunal partnership
+### 3\. Coalition building and intercommunal partnership
 
 Coalition building requires moving beyond comfort zones to identify shared values, incentives, and objectives. Movement building requires some level of learning with and working alongside people we may disagree with about a bunch of things. Building alternatives to incumbent oligopolies requires multiple approaches and many protocols and standards.
 

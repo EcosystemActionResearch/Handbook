@@ -2,30 +2,33 @@
 
 The EAR operating model is made up of five core functions.
 
-- Project committee 
-- Steering
-- Operations and member services
-- Communications
-- Research & imagination
+- [Project committee](project-committee.md)
+- [Steering](steering.md)
+- [Operations and member services](internal-services/index.md)
+- [Communications](communications.md)
+- [Research & innovation](research-imagination/index.md)
 
 ## Policy-driven governance
-- Project committee
+- [Project committee ](project-committee.md)
 
 ## Outside and future awareness
-- Steering
+- [Steering](steering.md)
 
 ## Operations and member services
 Member services are made possible by intentional partnership between EAR functions responsible for a enabling four-legged stool of day-to-day coordination (internal and external communications), internal enablement (ops), strategic development (steering), and policy-driven governance (project committee).
 
-- Care
-- Commons
-- Convening
-- Craft
-- Editorial
-- Discovery
-- Financial development
-- Software systems
+- [Operations and member services](internal-services/index.md)
+	- [Commons](internal-services/commons.md)
+	- [Convening](internal-services/convening.md)
+	- [Craft](internal-services/craft.md)
+	- [Editorial](internal-services/editorial.md)
+	- [Discovery](internal-services/discovery.md)
+	- [Financial Development](internal-services/development.md)
+	- [Software systems](internal-services/software-systems.md)
 
 ## Day-to-day coordination
-- Strategic communications
-- Membership
+- [Strategic communications](communications.md)
+- [Membership](membership.md)
+
+## Research and imagination
+- [Research & innovation](research-imagination/index.md)
