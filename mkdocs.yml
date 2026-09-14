@@ -45,11 +45,10 @@ nav:
     - Schedule a meeting or event: guides/schedule.md
     - External communications: guides/public-relations.md
     - Conflict resolution: guides/conflict-resolution.md
-    - Opportunities: guides/opportunities.md
-    - Research projects: guides/research-projects.md
-    - Research methods: 
-      - EAR research methods: guides/research-methods/index.md
-      - How to begin: guides/research-methods/how-to-begin.md
+    - Research projects: 
+      - EAR research projects: guides/research-projects/index.md
+      - Opportunities: guides/research-projects/opportunities.md
+      - How to begin: guides/research-projects/how-to-begin.md
     - Request financial support: guides/request-financial-support.md
     - Contribute to the handbook:
       - How to contribute: guides/contribute/index.md
