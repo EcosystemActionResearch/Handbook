@@ -26,9 +26,9 @@
 - [External communications](guides/public-relations.md)
 - [Conflict resolution](guides/conflict-resolution.md)
 - [Schedule a meeting or event](guides/schedule.md)
-- [Opportunities](guides/opportunities.md)
-- [Research projects](guides/research-projects.md)
-- [Research methods](guides/research-methods/index.md)
+- [Research projects](guides/research-projects/index.md)
+	- [Opportunities](guides/research-projects/index.md)
+	- [How to begin](guides/research-projects/index.md)
 - [Request financial support](guides/request-financial-support.md)
 - [Contribute to the handbook](guides/contribute/index.md)
 

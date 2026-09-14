@@ -32,8 +32,6 @@ The EAR community is a gathering place for members and those we partner with to 
 
 While all of this is in service of innovation, we intentionally create a space for imagination in service of innovation, rather than attempting to innovate on our own. This is in part because in order to realize desirable futures, we must first imagine them. There are many people capable of and involved in direct action. Indirect action is necessary to help create the conditions necessary to inform direct action with plural, inclusive, and effective contexts.
 
-See: [How to begin](../../guides/research-methods/how-to-begin.md)
-
 ### Action Research
 
 People are more likely to help shape what’s next when they are active participants in exploring and improving situations affecting them. 
@@ -49,10 +47,6 @@ While some of our research explores current-state conditions and near-term oppor
 > —Ruha Benjamin, *Imagination: A Manifesto*
 
 It’s our hope that through collective imagination we help give people an opportunity to participate in and contribute to the conversation about what a public interest internet might look like.
-
-## Methods
-
-See the [research methods guide](../../guides/research-methods/index.md).
 
 ## Principles
 
@@ -73,7 +67,7 @@ From the charter:
 > 4. Provide **resources, research artifacts, and reference materials** to enable a diverse range of organizations and individuals to participate in the emergent ecosystem enabled by AT network technology.
 
 ## Related
-* [Research methods](../../guides/research-methods/index.md)
+* [Research projects](../../guides/research-projects/index.md)
 * [Research principles](research-principles.md)  
 * [Data, observations, and insights](data-synthesis-principles.md)
 * [Charter](../charter.md)

@@ -12,8 +12,8 @@ We encourage extinging invitations to participate or observe where it makes sens
 
 Anyone can start a project internally—whether that project is in line with our charter, objectives, and values will determine whether EAR is able to support or endorse the project publicly. Formal project proposals will be approved or rejected with feedback within 10 business days (two weeks) of the proposal being shared with the steering group based on a poll as described in the decisions agreement. 
 
-- Opportunities (internal wiki or spreadsheet link)
-- How to begin
+- [Opportunities](opportunities.md)
+- [How to begin](how-to-begin.md)
 
 ## Fund a project
 

@@ -7,9 +7,10 @@ Guides explain how we do things. Any EAR member can propose changes to guides. C
 - [Schedule a meeting or event](schedule.md)
 - [External communications](public-relations.md)
 - [Conflict resolution](conflict-resolution.md)
-- [Opportunities](opportunities.md)
-- [Research projects](research-projects.md)
-- [Research methods](research-methods/index.md)
+
+- [Research projects](research-projects/index.md)
+	- [Opportunities](research-projects/opportunities.md)
+	- [How to begin](research-projects/how-to-begin.md)
 - [Request financial support](request-financial-support.md)
 - [Contribute to the handbook](contribute/index.md)
 	- [How to contribute](contribute/index.md)
