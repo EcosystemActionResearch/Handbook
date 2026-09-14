@@ -1,42 +1,5 @@
 # Work with EAR
 
-<!--
-
-# Content guidance
-
-Remove section after authoring.
-
-## Status
-
-| Readiness | What’s needed | Driver | Purpose |
-| :---- | :---- | :---- | :---- |
-| Completed | ~~Content outline Draft content~~ |  |  |
-
-## Content stub
-
-| Criteria | Guidance |
-| :---- | :---- |
-| Audiences | **External stakeholders** who want to learn about working with EAR (primary), **EAR members** (secondary) |
-| Primary message | EAR offers pathways for partners and stakeholders to engage with our research and community, creating opportunities for mutual learning and innovation. |
-| Audience-specific messages | EAR members: … External stakeholders: … |
-| Purpose of page | Describe how stakeholders or those interested can expect to work with EAR. Provide clear onboarding pathways. Link out to related topics. |
-| Style and tone | Use active voice, avoid passive voice. Write in clear, plain language, and avoid jargon. Use positive statements rather than negative statements. Break long paragraphs into two or three short, concise sentences. |
-
-## Content outline
-
-Remove this section after writing content. 
-
-| Section | Topics |
-| :---- | :---- |
-| Intro |  |
-| Who we serve |  |
-| What to expect |  |
-| Share a problem or opportunity |  |
-|  |  |
-|  |  |
-
--->
-
 Work with EAR as a organizational partner, stakeholder, research participant, advisor, or volunteer.
 
 ## Share an inquiry, challenge, or opportunity
@@ -69,7 +32,6 @@ From the [EAR charter](agreements/charter.md):
 > * Communities such as friends, family, movements, interest-groups, neighbors, etc.
 >
 > This means that we conduct research with a diverse range of audiences, participants, and allies. Interested? Send us a message\!.
-
 
 ## Support our work
 
