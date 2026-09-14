@@ -32,5 +32,5 @@ Again, if you’re unsure how to proceed, feel unsafe, or are experiencing haras
 
 ## Related agreements
 
-* Personal conduct  
-* Decisions
+* [Personal conduct](../agreements/personal-conduct.md)
+* [Decisions](../agreements/decisions/index.md)

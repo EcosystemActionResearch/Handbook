@@ -15,7 +15,3 @@ Guides explain how we do things. Any EAR member can propose changes to guides. C
 - [Contribute to the handbook](contribute/index.md)
 	- [How to contribute](contribute/index.md)
 	- [MKDocs](contribute/mkdocs.md)
-
-In-development guides:
-
-- Onboarding
