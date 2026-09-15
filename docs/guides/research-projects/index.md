@@ -17,7 +17,7 @@ Anyone can start a research project internally—whether that project is in line
 
 EAR is a volunteer-run collective. Facilitating and contributing to projects takes time and labor. You are welcome to propose a target fundraising budget alongside your project proposal.
 
-See [../request-financial-support.md]
+- [Request financial support guide](../request-financial-support.md)
 
 ## Retire a project
 
