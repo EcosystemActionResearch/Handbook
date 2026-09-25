@@ -2,6 +2,7 @@ site_name: EAR Handbook
 site_url: https://handbook.ecosystemaction.com
 theme:
   name: material
+  custom_dir: overrides
 #  features:
 #    - navigation.expand
 nav:
