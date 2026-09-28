@@ -1,5 +1,6 @@
 site_name: EAR Handbook
 site_url: https://handbook.ecosystemaction.com
+repo_url: https://github.com/ecosystemactionresearch/handbook
 theme:
   name: material
   custom_dir: overrides
